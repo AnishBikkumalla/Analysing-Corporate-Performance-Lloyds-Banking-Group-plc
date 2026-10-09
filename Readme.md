@@ -4,8 +4,8 @@ This repository contains a comprehensive financial analysis of Lloyds Banking Gr
 
 ## Repository Contents
 
-*   **`Anish (1) (2).docx`**: The primary research report detailing the strategic and financial analysis, complete with executive summaries, governance reviews, and final investment recommendations[cite: 3].
-*   **`Anish .xlsx`**: The companion Excel workbook containing the raw financial data, trend analysis models, and comprehensive ratio calculations used to benchmark LBG against industry peers[cite: 3].
+*   **`Anish.docx`**: The primary research report detailing the strategic and financial analysis, complete with executive summaries, governance reviews, and final investment recommendations[cite: 3].
+*   **`Anish.xlsx`**: The companion Excel workbook containing the raw financial data, trend analysis models, and comprehensive ratio calculations used to benchmark LBG against industry peers[cite: 3].
 
 ## Key Highlights & Findings
 
